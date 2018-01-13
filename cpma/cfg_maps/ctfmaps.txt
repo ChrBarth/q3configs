@@ -1,0 +1,12 @@
+# <mapname> <minplayers> <scorelimit> <timelimit>
+q3ctf2  99  99  10  20
+q3ctf3  99  99  10  20
+q3ctf4  99  99  10  20
+coralctf    99  99  10  20
+japanctf    99  99  10  20
+q3w1    99  99  10  20
+q3wc2   99  99  10  20
+q3wc3   99  99  10  20
+q3wcp10 99  99  10  20
+q3wcp14 99  99  10  20
+q3wcp17 99  99  10  20

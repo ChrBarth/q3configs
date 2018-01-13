@@ -1,0 +1,13 @@
+# 1v1 Maps
+# <mapname> <minplayers> <maxplayers> <scorelimit> <timelimit>
+
+q3dm6   99  4   0  10
+q3dm13  99  4   0  10
+q3tourney4  99  4   0  10
+ztn3dm1 99  4   0  10
+q3tourney2  99  4   0   10
+cpm1a   99  4   0   10
+pukka3tourney2  99  4   0   10
+q3mcm4  99  4   0   10
+q3mcm7  99  4   0   10
+ztn3dm2 99  4   0   10

@@ -1,0 +1,13 @@
+# <mapname> <minplayers> <maxplayers> <scorelimit> <timelimit>
+
+!q3dm6tmp   99  8   0   15
+!q3dm14tmp  99  8   0   15
+ztn3dm1 99  4   0   15
+cpm4    99  8   0   15
+q3dm7   99  8   0   15
+dc_map07    99  8   0   15
+ospdm5  99  8   0   15
+phantq3dm3  99  8   0   15
+pro-q3tourney7  99  8   0   15
+q3shw24 99  8   0   15
+

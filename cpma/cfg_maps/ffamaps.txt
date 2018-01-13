@@ -1,0 +1,9 @@
+# <mapname> <minplayers> <maxplayers> <scorelimit> <timelimit>
+
+q3dm6   99  6   30  0
+q3dm7   99  8   25  0
+q3dm11  99  8   20  0
+q3dm12  99  8   20  0
+q3dm13  99  4   25  0
+q3dm14  99  8   25  0
+q3dm17  99  8   40  20
