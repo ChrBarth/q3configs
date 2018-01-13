@@ -2,4 +2,4 @@
 
 main q3-config: `baseq3/c.cfg`
 
-cpma-configs: `cpma/\*.cfg`
+cpma-configs: `cpma/*.cfg`
